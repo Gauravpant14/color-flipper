@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links{
+    float: right;
+}
+li{
+    display: inline-block;
+    
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+
+}
+
+.color{
+   
+}
